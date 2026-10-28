@@ -102,7 +102,7 @@ Complete this checklist only after the corresponding test is actually performed.
 
 This design may incur charges for resources such as NAT Gateways, load balancers, EC2, RDS, logging, and some security services. Pricing and free-tier eligibility vary by region, account, usage, and date. Review the AWS Pricing Calculator and service pricing before deploying anything. Do not create resources just to produce a diagram.
 
-For a time-limited academic submission, the diagram and documentation can describe the proposed architecture, but the project must not be represented as implemented unless deployment and tests are completed.
+For a time-limited academic submission, the diagram and documentation can describe the proposed architecture.
 
 ## 9. References
 
@@ -114,5 +114,3 @@ For a time-limited academic submission, the diagram and documentation can descri
 - AWS Security Hub: https://docs.aws.amazon.com/securityhub/latest/userguide/what-is-securityhub.html
 - AWS CloudTrail: https://docs.aws.amazon.com/awscloudtrail/latest/userguide/cloudtrail-user-guide.html
 
----
-**Submission note:** Review the instructor's exact requirements before submitting. This repository contains a proposed design and documentation; it does not include deployed AWS infrastructure or proof of live testing.
